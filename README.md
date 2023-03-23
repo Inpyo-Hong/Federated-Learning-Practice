@@ -36,11 +36,8 @@ tqdm
 
 ![image](https://user-images.githubusercontent.com/64252911/191291690-960d5f38-19c7-4a05-8aed-bd2ad1e82ae8.png)
 
-## 3. Femnist 데이터셋 다운
 
-![image](https://user-images.githubusercontent.com/64252911/191292153-683a4c3d-dfc5-46d1-b60c-4d6ab3e952c2.png)
-
-## 4. Server 실행
+## 3. Server 실행
 
 시간관계 상 num_round는 10으로 설정하였음.
 
@@ -69,7 +66,7 @@ tqdm
     
 ![image](https://user-images.githubusercontent.com/64252911/191292852-3a8c8333-fae8-4f2f-b1a4-b6ec9899c95f.png)
 
-## 5. Client 실행
+## 4. Client 실행
 
     import warnings
 
@@ -235,7 +232,7 @@ tqdm
 ![image](https://user-images.githubusercontent.com/64252911/191296764-680d4858-7227-4900-a18c-6a3d6ea7ed26.png)
 
 
-## 6. 실험결과
+## 5. 실험결과
 
 핵심 실험결과는 다음과 같음.
 
