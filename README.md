@@ -1,6 +1,4 @@
-# smart_service_application
-
-### IT융합공학과 컴퓨터공학전공 202245234 홍인표
+# Federated Learning Practice
 
 
 ## 기존 Machine Learning 시스템의 한계
